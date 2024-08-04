@@ -3,7 +3,7 @@
 This project is a simple console-based clone of the classic "Space Invaders" game, developed in C++. The game features basic enemy movement, player control, and collision detection. This is a great starting point for beginners looking to understand game development concepts in C++.
 
 # Demo
-![Demo](https://github.com/abawan7/space-shooter-game/blob/main/Demp.gif)
+![Demo](https://github.com/Mudassir3441/space-shooter/blob/main/Demp.gif)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
